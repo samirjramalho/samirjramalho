@@ -3,7 +3,7 @@
 - Software Developer
   
   
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samirzera&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samirzera&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samirjramalho&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samirjramalho&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
 
 
