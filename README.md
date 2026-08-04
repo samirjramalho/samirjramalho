@@ -1,47 +1,104 @@
-# Olá, eu sou Samir Ramalho
+# Hi, I'm Samir Ramalho 👋
 
-**Desenvolvedor Python | Visão Computacional | Backend | Automação**
+### Software Engineer | Backend | Computer Vision & AI | Docker | AWS | System Integration
 
-Sou Analista e Desenvolvedor de Sistemas com foco na criação de soluções
-utilizando Python, visão computacional, APIs e automação.
+I'm a Software Engineer passionate about building backend applications, web systems, Artificial Intelligence solutions and Computer Vision applications.
 
-Tenho desenvolvido projetos envolvendo detecção de objetos com YOLO,
-processamento de imagens com OpenCV, integração com AWS S3, APIs com
-FastAPI e aplicações conteinerizadas com Docker.
+My experience includes backend development with Python, web applications using PHP and JavaScript, REST API integration, Computer Vision pipelines, Docker-based environments, vector databases, cloud services and system integration.
 
-## Áreas de interesse
+I enjoy solving real-world engineering problems by developing scalable, maintainable and high-performance software.
 
-- Visão computacional e processamento de imagens
-- APIs REST e desenvolvimento backend com Python
-- Automação de processos e integração de sistemas
-- Deploy, Docker e serviços AWS
-- Desenvolvimento de aplicações e ferramentas em Go
+---
 
-## Projetos em destaque
+## 🚀 Current Focus
 
-### [Service Update](https://github.com/samirjramalho/Service-Update)
-Automação para download e atualização de modelos YOLO armazenados no
-AWS S3, incluindo exportação do modelo para inferência.
+- Backend Development
+- Distributed Systems
+- Computer Vision & Artificial Intelligence
+- REST APIs & System Integration
+- Docker & Kubernetes
+- Go
+- Kafka
+- Cloud Technologies (AWS & GCP)
 
-### [YOLOv8 Object Cropper](https://github.com/samirjramalho/yolo8-object-cropper)
-Detecção de objetos em tempo real e geração automática de imagens
-recortadas utilizando YOLOv8, PyTorch e OpenCV.
+---
 
-### [Docker Project](https://github.com/samirjramalho/Docker-Project)
-API de gestão escolar desenvolvida com FastAPI, SQLAlchemy e SQLite,
-executada com Docker e validada pelo GitHub Actions.
+## 💻 Tech Stack
 
-### [Webcam Reader](https://github.com/samirjramalho/Webcam-Reader)
-Captura simultânea de imagens de duas webcams usando OpenCV e
-processamento concorrente com threads.
+### Languages
 
-## Tecnologias principais
+Python • Go • PHP • JavaScript • HTML • CSS
 
-Python • FastAPI • OpenCV • YOLO • PyTorch • Docker • AWS S3  
-Go • PostgreSQL • SQLAlchemy • Git • Linux
+### Backend
 
-## Contato
+FastAPI • Flask • REST APIs
 
-- [LinkedIn](https://www.linkedin.com/in/samirjramalho/)
+### Databases
 
->"Sempre disposto a aprender e dominar novas tecnologias, com o objetivo de impulsionar resultados reais."
+PostgreSQL • MySQL • Qdrant
+
+### AI & Computer Vision
+
+OpenCV • YOLO • PyTorch • Vector Embeddings
+
+### DevOps
+
+Docker • Kubernetes • GitHub Actions
+
+### Cloud
+
+AWS (S3) • Google Cloud Platform
+
+### Tools
+
+Git • Bitbucket • Jira • Linux
+
+---
+
+## ⭐ Featured Projects
+
+### Service Update
+
+Automation for downloading, versioning and deploying AI models stored on AWS S3.
+
+**Tech Stack**
+
+Python • AWS S3 • Docker
+
+---
+
+### Docker Project
+
+School Management REST API built with FastAPI, SQLAlchemy and Docker.
+
+**Tech Stack**
+
+FastAPI • Docker • SQLAlchemy
+
+---
+
+### YOLOv8 Object Cropper
+
+Real-time object detection and automatic dataset generation using YOLOv8 and OpenCV.
+
+**Tech Stack**
+
+Python • YOLO • OpenCV • PyTorch
+
+---
+
+### Webcam Reader
+
+Concurrent image acquisition from multiple cameras using multithreading and OpenCV.
+
+**Tech Stack**
+
+Python • OpenCV • Multithreading
+
+---
+
+## 📫 Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/samirjramalho
+
+> Always learning, always building.
