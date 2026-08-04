@@ -1,6 +1,6 @@
 # Hi, I'm Samir Ramalho 👋
 
-### Software Engineer | Backend | Computer Vision & AI | Docker | AWS | System Integration
+### Software Engineer | Computer Vision & AI | Docker | AWS | APIs & System Integration
 
 I'm a Software Engineer passionate about building backend applications, web systems, Artificial Intelligence solutions and Computer Vision applications.
 
