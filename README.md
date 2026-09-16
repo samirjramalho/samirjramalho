@@ -1,57 +1,57 @@
 # Hi, I'm Samir Ramalho 👋
 
-### Software Engineer | Computer Vision & AI | Docker | AWS | APIs & System Integration
+### Software Engineer | AI & GenAI | LLMs | Python & Go | Computer Vision | APIs & Cloud
 
-I'm a Software Engineer passionate about building backend applications, web systems, Artificial Intelligence solutions and Computer Vision applications.
+I'm a Software Engineer with professional experience in backend development,
+Artificial Intelligence, Computer Vision, and Generative AI.
 
-My experience includes backend development with Python, web applications using PHP and JavaScript, REST API integration, Computer Vision pipelines, Docker-based environments, vector databases, cloud services and system integration.
+My experience includes building backend applications with Python and PHP,
+developing REST APIs, integrating software systems and embedded devices,
+working with databases, Docker, AWS, and AI-driven solutions.
 
-I enjoy solving real-world engineering problems by developing scalable, maintainable and high-performance software.
+I've worked on real-world applications involving industrial inspection,
+self-checkout anti-fraud systems, image processing, vector databases,
+LLM integrations, and NVIDIA Jetson devices.
+
+I enjoy solving practical engineering problems, improving system performance,
+and building maintainable and reliable software.
 
 ---
 
 ## 🚀 Current Focus
 
-- Backend Development
-- Distributed Systems
-- Computer Vision & Artificial Intelligence
+- Backend Development with Python
 - REST APIs & System Integration
-- Docker & Kubernetes
+- Generative AI, LLMs & RAG
+- AI Agents
+- Computer Vision & Applied AI
+- Docker & Cloud
 - Go
-- Kafka
-- Cloud Technologies (AWS & GCP)
 
 ---
 
 ## 💻 Tech Stack
 
-### Languages
-
-Python • Go • PHP • JavaScript • HTML • CSS
-
 ### Backend
+Python • FastAPI • Flask • REST APIs • PHP
 
-FastAPI • Flask • REST APIs
-
-### Databases
-
-PostgreSQL • MySQL • Qdrant
+### Languages
+Python • Go • JavaScript • SQL • HTML • CSS
 
 ### AI & Computer Vision
+LLMs • Generative AI • RAG • Embeddings • OpenCV • YOLO
 
-OpenCV • YOLO • PyTorch • Vector Embeddings
+### Databases
+MySQL • PostgreSQL • MongoDB • Qdrant
 
-### DevOps
+### Cloud & DevOps
+AWS • GCP • Docker • Kubernetes • Linux
 
-Docker • Kubernetes • GitHub Actions
-
-### Cloud
-
-AWS (S3) • Google Cloud Platform
+### Messaging & Integration
+WebSockets • Kafka • RabbitMQ
 
 ### Tools
-
-Git • Bitbucket • Jira • Linux
+Git • GitHub • Bitbucket • Jira
 
 ---
 
