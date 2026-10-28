@@ -57,6 +57,23 @@ Git • GitHub • Bitbucket • Jira
 
 ## ⭐ Featured Projects
 
+### LinkedIn Job Excludes
+
+An open-source browser extension that filters LinkedIn job search results by removing cards from companies on a user-managed block list. Built to make repetitive job searches more focused.
+
+**Highlights**
+
+- Filters dynamically loaded job cards
+- Supports Brazilian Portuguese and English
+- Stores preferences in browser extension storage
+- Submitted to Opera Add-ons and awaiting review
+
+**Tech Stack**
+
+JavaScript • HTML • CSS • WebExtensions API • MutationObserver
+
+[View the repository](https://github.com/samirjramalho/LinkedIn-Job-Excludes)
+
 ### Service Update
 
 Automation for downloading, versioning and deploying AI models stored on AWS S3.
