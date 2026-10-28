@@ -72,8 +72,6 @@ An open-source browser extension that filters LinkedIn job search results by rem
 
 JavaScript • HTML • CSS • WebExtensions API • MutationObserver
 
-[View the repository](https://github.com/samirjramalho/LinkedIn-Job-Excludes)
-
 ### Service Update
 
 Automation for downloading, versioning and deploying AI models stored on AWS S3.
